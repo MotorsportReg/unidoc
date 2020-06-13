@@ -10,7 +10,7 @@ import (
 	"compress/zlib"
 	"testing"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 func init() {

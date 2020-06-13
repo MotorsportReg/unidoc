@@ -18,8 +18,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/license"
+	"github.com/MotorsportReg/unidoc/common"
+	"github.com/MotorsportReg/unidoc/license"
 )
 
 var pdfProducer = ""

@@ -14,7 +14,7 @@ import (
 	_ "image/png"
 	"io"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 // Basic representation of an image.  The images are stored in the JPEG

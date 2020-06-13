@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 const (

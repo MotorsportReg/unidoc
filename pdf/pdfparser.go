@@ -17,7 +17,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 // Regular Expressions for parsing and identifying object signatures.

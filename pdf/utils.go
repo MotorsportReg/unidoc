@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 // Inspect analyzes the document object structure.

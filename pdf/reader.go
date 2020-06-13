@@ -11,7 +11,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 type PdfReader struct {

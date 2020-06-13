@@ -11,7 +11,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 // Decodes the stream.

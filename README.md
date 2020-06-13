@@ -8,7 +8,7 @@ This library is used to power many of the services offered by the FoxyUtils.com 
 eventually support all of the offered services.
 
 [![wercker status](https://app.wercker.com/status/22b50db125a6d376080f3f0c80d085fa/s/master "wercker status")](https://app.wercker.com/project/bykey/22b50db125a6d376080f3f0c80d085fa)
-[![GoDoc](https://godoc.org/github.com/unidoc/unidoc?status.svg)](https://godoc.org/github.com/unidoc/unidoc)
+[![GoDoc](https://godoc.org/github.com/MotorsportReg/unidoc?status.svg)](https://godoc.org/github.com/MotorsportReg/unidoc)
 
 ## Getting the code
 
@@ -17,7 +17,7 @@ Commercial users get a special URL with their customer id. Only the commercial U
 
 ## Installation
 ~~~
-go get github.com/unidoc/unidoc
+go get github.com/MotorsportReg/unidoc
 ~~~
 
 ## Overview
@@ -32,7 +32,7 @@ Our [roadmap](https://trello.com/b/JcliaYYI) is publicly available and features 
 
 ## Examples
 
-See the [unidoc-examples](https://github.com/unidoc/unidoc-examples/tree/master) folder.
+See the [unidoc-examples](https://github.com/MotorsportReg/unidoc-examples/tree/master) folder.
 
 ## Copying/License
 

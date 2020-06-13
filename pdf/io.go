@@ -10,7 +10,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/MotorsportReg/unidoc/common"
 )
 
 func (this *PdfParser) ReadAtLeast(p []byte, n int) (int, error) {

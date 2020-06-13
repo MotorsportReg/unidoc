@@ -9,14 +9,14 @@
 // and supported by the owners of the [FoxyUtils.com](https://foxyutils.com)
 // website.
 //
-// Please see the [examples](https://github.com/unidoc/unidoc-examples/tree/master)
+// Please see the [examples](https://github.com/MotorsportReg/unidoc-examples/tree/master)
 // folder.
 //
 
 package unidoc
 
 import (
-	_ "github.com/unidoc/unidoc/common"
-	_ "github.com/unidoc/unidoc/license"
-	_ "github.com/unidoc/unidoc/pdf"
+	_ "github.com/MotorsportReg/unidoc/common"
+	_ "github.com/MotorsportReg/unidoc/license"
+	_ "github.com/MotorsportReg/unidoc/pdf"
 )
